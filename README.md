@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://github.com/Dris7/Banking_Server_Client/blob/main/Screenshot%202023-03-31%20005300.png" alt="Login page" width="400">
   <br>
-  <em>Figure 1: Login page</em>
+  <em>Figure 1: Login View</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/Dris7/Banking_Server_Client/blob/main/Screenshot%202023-03-31%20005348.png" alt="Dashboard view" width="400">
   <br>
-  <em>Figure 2: Dashboard view</em>
+  <em>Figure 2: Dashboard View</em>
 </p>
 
 
