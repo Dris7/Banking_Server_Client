@@ -29,7 +29,7 @@ This is a banking system management project built using C programming language a
 
 - [ATKOU DRISS](https://github.com/Dris7)
 - [EL KANTOUR YOUNESS](https://github.com/younessX)
-
+- [ABDELLAH SOUSAID](https://github.com/sousaid)
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
