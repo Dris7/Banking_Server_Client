@@ -1,7 +1,7 @@
 # Banking System Management using Server/Client Architecture
 <p align="center">
   <img src="https://github.com/Dris7/Banking_Server_Client/blob/main/Screenshot%202023-03-31%20005300.png" alt="Logo">
-   <img src="https://github.com/Dris7/Banking_Server_Client/blob/main/Screenshot%202023-03-31%20005300.png" alt="Logo">
+   <img src="https://github.com/Dris7/Banking_Server_Client/blob/main/Screenshot%202023-03-31%20005348.png" alt="Logo">
 </p>
 
 This is a banking system management project built using C programming language and utilizing sockets for server/client communication. The project is designed to handle multiple clients simultaneously and offers various functionalities including login to account, creating an account, checking account balance, transferring money, and deleting an account.
